@@ -58,7 +58,7 @@ my_data = {
 
 | 序號 | 模板名稱 (Model Name) | 視覺風格 | 連結 | 狀態 |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Modern Magazine (V5.5)** | 極簡白、紅色幾何、外刊質感 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fHmZH4gKLOYxKEmv-x9Q0DjM8tloEI98?usp=sharing)| ✅ 已上線 |
+| **01** | **Modern Magazine** | 極簡白、紅色幾何、外刊質感 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fHmZH4gKLOYxKEmv-x9Q0DjM8tloEI98?usp=sharing)| ✅ 已上線 |
 | 02 | Dark Mode Hardcore | 暗黑系、高對比、技術流 | [待更新] | 🚧 開發中 |
 | 03 | Film Aesthetic | 底片質感、粗顆粒、膠卷邊框 | [待更新] | 📅 計劃中 |
 
