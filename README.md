@@ -41,7 +41,7 @@
 以下是我的標題，請直接生成 full my_data 代碼（含文案調整與列點優化），並同時為我生成封面用的 test_photo.jpg：
 
 《這裡填寫你的標題》
-
+```
 ## 🎨 模板庫 (Template Registry)
 
 目前已開發完成的 Model，後續將持續更新。
