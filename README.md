@@ -1,7 +1,7 @@
 # 🚀 LUCAS 實驗室 | 小紅書全自動排版工廠
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fHmZH4gKLOYxKEmv-x9Q0DjM8tloEI98?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15hrefQtnjmco8PeUJhkqBOlHq7i6flLm?usp=sharing)
 > 這是一個專為深度內容創作者設計的自動化排版引擎。拒絕低質量的 AI 廢文感，利用像素級對齊算法，一鍵生成具備「外刊質感」的小紅書長圖卡。
 ---
 
@@ -20,7 +20,7 @@
 
 | 序號 | 模板名稱 (Model Name) | 視覺風格 | 連結 | 狀態 |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **拆書實驗室** | 極簡白、紅色幾何、外刊質感 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fHmZH4gKLOYxKEmv-x9Q0DjM8tloEI98?usp=sharing)| ✅ 已上線 |
+| **01** | **拆書實驗室** | 極簡白、紅色幾何、外刊質感 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15hrefQtnjmco8PeUJhkqBOlHq7i6flLm?usp=sharing)| ✅ 已上線 |
 | 02 | Dark Mode Hardcore | 暗黑系、高對比、技術流 | [待更新] | 🚧 開發中 |
 | 03 | Film Aesthetic | 底片質感、粗顆粒、膠卷邊框 | [待更新] | 📅 計劃中 |
 
